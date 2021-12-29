@@ -1,0 +1,45 @@
+S.NO,Registration Id,Name,AI,CN,CD,DMDW,STM,Total,Pass/Fail,FirstClass,Second Class,Dist
+1,19811A0502,A.Bhargav Santhosh,100,13,25,85,8,231,Pass,NO,Second,NO
+2,19811A0503,Andukuri Venkata Lakshmi Bhargavi,58,45,75,87,44,309,Pass,FC,Second,NO
+3,19811A0505,Balireddi Mahu Prakash,9,33,54,74,94,264,Pass,FC,Second,NO
+4,19811A0507,Billa Chandrika,72,64,76,51,27,290,Pass,FC,Second,NO
+5,19811A0510,Bothsa Durga Prasad,18,18,33,97,79,245,Pass,NO,Second,NO
+6,19811A0512,Chelluri Vasavi,36,22,67,20,60,205,Pass,NO,NO,NO
+7,19811A0515,Dabbiru Nagalaxmi,24,43,57,31,60,215,Pass,NO,Second,NO
+8,19811A0516,Indrani Donka,79,31,17,60,5,192,Pass,NO,NO,NO
+9,19811A0517,Duggirala Sai Pavani Jagadeeswari,18,87,76,59,44,284,Pass,FC,Second,NO
+10,19811A0518,Eati.Joshna,61,14,50,25,17,167,Fail,NO,NO,NO
+11,19811A0520,Sandhya Renuka,30,53,32,16,72,203,Pass,NO,NO,NO
+12,19811A0523,Gogu Chandini,31,80,20,78,78,287,Pass,FC,Second,NO
+13,19811A0525,Gurram Venkata Anusha,7,33,6,65,51,162,Fail,NO,NO,NO
+14,19811A0527,Kalagani Jyothiraditya,18,72,47,37,57,231,Pass,NO,Second,NO
+15,19811A0528,Kampati Nagadevi,50,62,51,47,68,278,Pass,FC,Second,NO
+16,19811A0529,Kanchipati Madhuri,85,54,38,19,55,251,Pass,NO,Second,NO
+17,19811A0533,K.Anusha,91,81,85,100,63,420,Pass,FC,Second,Dist
+18,19811A0534,Jyothi,46,83,8,83,71,291,Pass,FC,Second,NO
+19,19811A0535,Kayala.Ganga Bhavni,59,54,76,9,59,257,Pass,NO,Second,NO
+20,19811A0537,K Vivek Sarma,38,17,32,44,28,159,Fail,NO,NO,NO
+21,19811A0538,Teja Kondragunta,56,9,4,15,71,155,Fail,NO,NO,NO
+22,19811A0538,Teja Kondragunta,92,0,2,22,12,128,Fail,NO,NO,NO
+23,19811A0540,Kovvada Hema,24,15,53,37,8,137,Fail,NO,NO,NO
+24,19811A0541,Kovvada Naga Keerthi,51,60,12,25,59,207,Pass,NO,NO,NO
+25,19811A0542,Kundrapu Sivaanjalinagadevi,22,63,0,77,52,214,Pass,NO,Second,NO
+26,19811A0543,L.Durga Jagadeeswari Jyothsna,65,57,2,90,0,214,Pass,NO,Second,NO
+27,19811A0546,Venugopal,82,47,35,14,67,245,Pass,NO,Second,NO
+28,19811A0550,V. Yaswanth,34,60,72,79,15,260,Pass,NO,Second,NO
+29,19811A0556,Gangala Naga Sai Kiran,39,7,27,25,44,142,Fail,NO,NO,NO
+30,19811A0557,Ganji.Murali Dhar,29,65,92,56,44,286,Pass,FC,Second,NO
+31,19811A0562,Poojasree Kalidindi,21,74,2,52,10,159,Fail,NO,NO,NO
+32,19811A0567,Chandra Mouli,22,37,16,19,88,182,Pass,NO,NO,NO
+33,19811A0568,Lalam Seetaramateja,74,9,39,38,15,175,Pass,NO,NO,NO
+34,19811A0570,Lanke.Tarun Babu,28,98,86,39,98,349,Pass,FC,Second,NO
+35,19811A0572,Makiredi Bhavani,68,67,24,27,3,189,Pass,NO,NO,NO
+36,19811A0585,Thanuja Ruttala,50,35,6,88,51,230,Pass,NO,Second,NO
+37,19811A0589,S.Phanindra,36,67,21,59,28,211,Pass,NO,Second,NO
+38,19811A0590,Uggina Anitha,19,32,17,40,92,200,Pass,NO,NO,NO
+39,19811A0593,Vedulla S S Satya Gayatri,72,18,55,39,69,253,Pass,NO,Second,NO
+40,19811A0594,Veeturi Sri Harshitha Pravallika,32,14,68,61,92,267,Pass,FC,Second,NO
+41,19811A05A0,Bodapathruni Maridayya Naidu,11,24,23,30,29,117,Fail,NO,NO,NO
+42,19811A05A1,Juttada Haripriya,67,32,33,9,55,196,Pass,NO,NO,NO
+43,20815A0501,Sailaja Chepuri,15,89,6,71,55,236,Pass,NO,Second,NO
+44,20815A0503,Gorle Venkata Satya Manoj Kumar,10,85,50,50,98,293,Pass,FC,Second,NO
